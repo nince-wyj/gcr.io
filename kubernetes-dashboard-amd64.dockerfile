@@ -1,0 +1,1 @@
+FROM k8s.gcr.io/kubernetes-dashboard-amd64:1.10.0
