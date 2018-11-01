@@ -1,0 +1,1 @@
+FROM k8s.gcr.io/tiller:v2.11.0
