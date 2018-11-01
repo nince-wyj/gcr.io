@@ -1,0 +1,1 @@
+FROM gcr.io/istio-release/injector:master-latest-daily
