@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/addon-resizer:1.7
+FROM k8s.gcr.io/addon-resizer:1.8.3
